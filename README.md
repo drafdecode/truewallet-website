@@ -1,9 +1,9 @@
 # Opensource Truewallet-website
-Opensource Website TrueMoney Wallet Api
-
+Opensource Website TrueMoney Wallet Api<br>
+อย่าเอาไปใช้ในทางที่ผิด นะคับ :D
 # Example Usage
-ลากลงใน Webserver แล้วเข้า 5555+
-Put file in to webserver and then go to you link
+Put file in to webserver and then go to you link<br>
+(ลากลงใน Webserver แล้วเข้า 5555+)
 
 # Donate
 support this project by make a donation to project developer.<br>
